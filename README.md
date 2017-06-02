@@ -1,2 +1,3 @@
 # hello-world
-just one repository
+2017-06-02
+学习的视频网站--大学生IT视频网--扣丁学堂
